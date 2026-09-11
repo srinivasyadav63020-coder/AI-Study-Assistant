@@ -1,0 +1,36 @@
+lib/
+│
+├── main.dart
+│
+├── models/
+│   ├── user_model.dart
+│   ├── note_model.dart
+│   ├── quiz_model.dart
+│   └── study_task_model.dart
+│
+├── screens/
+│   ├── splash_screen.dart
+│   ├── login_screen.dart
+│   ├── register_screen.dart
+│   ├── home_screen.dart
+│   ├── chat_screen.dart
+│   ├── notes_screen.dart
+│   ├── quiz_screen.dart
+│   ├── planner_screen.dart
+│   └── profile_screen.dart
+│
+├── services/
+│   ├── auth_service.dart
+│   ├── ai_service.dart
+│   ├── firestore_service.dart
+│   └── notification_service.dart
+│
+├── widgets/
+│   ├── chat_bubble.dart
+│   ├── subject_card.dart
+│   ├── task_card.dart
+│   └── quiz_option.dart
+│
+└── utils/
+    ├── constants.dart
+    └── theme.dart
