@@ -186,10 +186,10 @@ AI Study Assistant
 └── Application Entry Point
     └── main.dart
 
-🔄 Application Flow 
+                     🔄 Application Flow 
 
-                        ┌─────────────────────┐
-                    │   AI Study Assistant │
+                    ┌─────────────────────┐
+                    │  AI Study Assistant │
                     └──────────┬──────────┘
                                │
               ┌────────────────┼────────────────┐
